@@ -1,0 +1,15 @@
+{
+  "id": "ticktick",
+  "name": "Tick Tick",
+  "version": "1.0.0",
+  "description": "Tick Tick Franz recipe",
+  "main": "index.js",
+  "repository": "github.com/bigzoo/franz-recipe-ticktick",
+  "author": "Chris Nyaga <chris@bigzoo.me>",
+  "license": "MIT",
+  "private": false,
+  "config": {
+    "serviceURL": "https://www.ticktick.com/",
+    "hasNotificationSound": true
+  }
+}
